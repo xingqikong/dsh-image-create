@@ -1,0 +1,6 @@
+﻿# 产物 / 缓存
+SD-Picture/
+*.log
+__pycache__/
+node_modules/
+.DS_Store
